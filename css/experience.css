@@ -1,0 +1,45 @@
+.timeline-wrapper {
+  background-color: #bbbbbb;
+  border-radius: 1em;
+  padding: 1em;
+}
+
+.timeline-wrapper small {
+  color: #3f3530;
+  margin-left: 1em;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 8px 0px;
+  border-radius: 50px;
+  letter-spacing: 0.2px;
+}
+
+.marker {
+  font-weight: 800;
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 3em;
+  color: white;
+}
+
+.my-1 {
+  border-radius: 2em !important;
+}
+
+.skillsback {
+  background-color: rgb(133, 146, 128);
+  border-radius: 1em;
+}
+
+.percent {
+  margin-left: 1em;
+}
+
+.mobile-mt-2{
+  color: white;
+}
+
+.timeline-info p{
+  color: black;
+}
+
+/*# sourceMappingURL=experience.css.map */

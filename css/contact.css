@@ -1,0 +1,22 @@
+.marker {
+  font-weight: 800;
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 3em;
+}
+
+.contact-info .mt-3 .h5 {
+  font-size: 1.5em;
+  font-weight: 800;
+}
+
+.contact-info{
+  color: white;
+}
+
+.contact-form {
+  border-radius: 1.5em;
+}
+
+
+
+/*# sourceMappingURL=contact.css.map */
